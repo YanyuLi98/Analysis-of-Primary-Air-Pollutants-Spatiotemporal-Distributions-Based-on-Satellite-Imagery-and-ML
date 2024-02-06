@@ -1,9 +1,8 @@
 import os
 import pandas as pd
 
-# 定义相关参数
-# dataPath = 'E:\李炎钰\科研\全国空气质量\站点' # 数据目录
-dataPath = 'E:\李炎钰\科研\全国空气质量\站点\\1' # 数据目录
+# Define the parameters
+dataPath = 'E:\1' 
 print(dataPath)
 # targets = ['1462A','1463A','1464A','1465A','1466A','1467A','1468A','1469A','1470A',
 #           '1471A','1472A','1473A','1474A','1918A','1919A','1920A','1921A','1922A',
